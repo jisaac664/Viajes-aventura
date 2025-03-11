@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+
+.card{
+    margin: 20px;
+    width: 300px;
+    background-color: rgb(28, 158, 158);
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 0px 5px 10px cyan;
+    font-family: "Oswald", sans-serif;
+}
+
+.card :hover{
+    background-color: brown;
+    box-shadow: 0 5 px 15 px;
+    transform: scale(1.05);
+}
+
+.card img{
+    width: 100%;
+}
+
+.card h1{
+    text-align: center;
+    font-size: 25px;
+    color:crimson;
+}
+
+.card 2{
+    font-size: 15px;
+}
