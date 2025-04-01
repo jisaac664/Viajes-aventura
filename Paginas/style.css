@@ -1,0 +1,17 @@
+nav ul{
+    background-color: cyan;
+    width: 100%;
+    list-style-type: none;
+    text-align: center;
+}
+body{
+    background-color: royalblue;
+}
+nav li{
+    display: inline-flex;
+}
+nav a {
+    text-decoration: none;
+    color: blue;
+    padding: 20px;
+}
